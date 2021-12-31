@@ -12,3 +12,9 @@ O controle das tarefas desse projeto será realizado no GitHub
 - :up: Atualização
 - :beetle: Correção de bug
 - :checkered_flag: Release
+
+## Pequena demonstração
+
+<P align="center">
+    <img width="600px" height="360px" src="to README/web.gif">
+</P>
