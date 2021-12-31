@@ -16,5 +16,5 @@ O controle das tarefas desse projeto será realizado no GitHub
 ## Pequena demonstração
 
 <P align="center">
-    <img width="450px" height="270px" src="to README/web.gif">
+    <img width="300px" height="180px" src="to README/web.gif">
 </P>
