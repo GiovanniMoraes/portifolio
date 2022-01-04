@@ -18,3 +18,4 @@ O controle das tarefas desse projeto será realizado no GitHub
 <P align="center">
     <img width="auto" height="auto" src="midia/web.gif">
 </P>
+Obs: Site ainda sem responsividade, apenas desktop
