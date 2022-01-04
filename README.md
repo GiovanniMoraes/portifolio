@@ -16,5 +16,5 @@ O controle das tarefas desse projeto será realizado no GitHub
 ## Pequena demonstração
 
 <P align="center">
-    <img width="300px" height="180px" src="midia/web.gif">
+    <img width="auto" height="auto" src="midia/web.gif">
 </P>
