@@ -2,6 +2,9 @@ document.querySelector(".hamburguer").addEventListener("click", () =>
     document.querySelector(".container").classList.toggle("show-menu")
 );
 
+const prazo =  document.querySelector('#prazo').value
+if( prazo == 10) document.querySelector("label[for=prazo]").innerHTML = `Prazo: ${prazo} semanas`
+
 document.querySelector('#qtde').addEventListener("change", atualizarPreco)
 document.querySelector('#js').addEventListener("change", atualizarPreco)
 document.querySelector('#layout-sim').addEventListener("change", atualizarPreco)
